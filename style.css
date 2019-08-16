@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    background-color: green;
+    height: 100px;
+}
+.t{
+ 
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1{
+    text-align: center;
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
